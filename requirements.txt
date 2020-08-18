@@ -1,0 +1,5 @@
+twisted
+requests
+elasticache_auto_discovery
+numpy
+pymemcache
